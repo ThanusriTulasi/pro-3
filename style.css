@@ -4,8 +4,8 @@
     background-color:#F9A195;
     border-radius: 50%;
     position:relative;
-    margin-top:9%;
-    margin-left:38.7%;
+    margin-top:8.3%;
+    margin-left:38.6%;
     border:2px solid;
     
 }
@@ -86,9 +86,9 @@
 .ears{
     display: flex;
     justify-content: space-evenly;
-    width: 224px;
-    margin-top:-0.5%;
-    margin-left:38.6%;
+    width: 200px;
+    margin-top:-0.4%;
+    margin-left:38.75%;
     position:absolute;
     z-index:-1;
 
