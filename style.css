@@ -1,11 +1,11 @@
 .ears{
     display: flex;
     justify-content: space-evenly;
-    position: absolute;
-    width: 230px;
-    margin-top:10%;
-    margin-left:38%;
-    position:relative;
+    width: 224px;
+    margin-top:-2%;
+    margin-left:38.1%;
+    position:absolute;
+
 }
 #le{
     height: 80px;
@@ -14,6 +14,7 @@
     border-top-left-radius: 100%;
     border-top-right-radius: 100%;
     border: 2px solid;
+    z-index: -1;
 }
 #re{
     height: 80px;
@@ -22,6 +23,7 @@
     border-top-left-radius: 100%;
     border-top-right-radius: 100%;
     border:2px solid;
+    z-index: -1;
 }
 .face{
     height: 210px;
@@ -30,8 +32,9 @@
     border-radius: 50%;
     position:relative;
     margin-left:38.8%;
-    margin-top:-5%;
+    margin-top:10%;
     border:2px solid;
+    
 }
 .eyes{
     display: flex;
